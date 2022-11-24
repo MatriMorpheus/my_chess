@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "B9H5ylZzMvXau0Zfy6M1jRz971081RSR1ufPuYDUtGNqtWGnuPPGyQ4e/BNWMMdbwVNIxK/+lGTkd/WmLiZ13A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\santo\\Desktop\\chess_test_files\\Repo\\my_chess\\my_chess\\my_chess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\santo\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}
